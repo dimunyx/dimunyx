@@ -3,7 +3,7 @@
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dimunyx&layout=compact&theme=github_dark)\
 [![GitHub Streak](https://streak-stats.demolab.com?user=dimunyx&theme=github-dark&hide_border=true&border_radius=5&card_width=500&card_height=200&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
-GitHub -> Well
-Discord -> dimunyx
-Mail -> botnarudumitru10 [at] gmail.com
+GitHub -> Well \
+Discord -> dimunyx \
+Mail -> botnarudumitru10 [at] gmail.com \
 Site -> [https://dimunyx.github.io](https://dimunyx.github.io)
